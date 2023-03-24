@@ -1,6 +1,5 @@
 <html>
 	<head>
-		<title>Editor HTML Online</title>
 	</head>
 	<body>
 		<h1 align="center">
